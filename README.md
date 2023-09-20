@@ -10,7 +10,7 @@
 <body>
     <table cellspacing="20">
         <tr>
-    <td><img  width= "200" height="200" src="Lalit photo-modified.png" alt="This is an image"></td>
+    <td><img  width= "200" height="200" src="https://github.com/lalit256/Resume/blob/bf91346ebbca8a98435057b9936c5464b71eca99/Lalit%20photo.jpeg" alt="This is an image"></td>
     <td><h1>Lalit Jindal</h1>
     <p>I am a B.tech 2nd year student in Jaipur Engineering College and Research Center. <p></td>
 </tr>
